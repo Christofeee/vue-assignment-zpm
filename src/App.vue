@@ -26,4 +26,3 @@ const toggleListDetails = () => {
     <button @click="toggleListDetails" id="button">Show/Hide Details</button>
   </div>
 </template>
-
